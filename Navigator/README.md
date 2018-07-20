@@ -50,7 +50,7 @@ This prop define some component to user like back button at the navigator contai
 
 ### loop: bool `(default: false)`
 
-By default, if you change the `active` prop with equal name passed previously, this component not change the content because the prop `loop` is false, but if you need pass the same route 'n' times pass this props in Navigator.
+By default, if you change the `active` prop with equal name passed previously, this component not change the content because the prop `loop` is false, but if you need pass the same route 'n' times, pass this prop in `Navigator`.
 
 ```javascript
   ...
